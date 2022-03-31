@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tesseract Assessment Task1</string>
+    <string name="search">Search</string>
+    <string name="data_not_found">Data Not Found</string>
+</resources>
